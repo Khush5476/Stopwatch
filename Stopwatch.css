@@ -52,10 +52,14 @@
  
  
  body{
-    background-image:url(https://i.ytimg.com/vi/WQjpiLBIkuE/maxresdefault.jpg);
+    min-height: 100vh;
+    background-image:url(https://www.shutterstock.com/image-vector/plane-night-sky-airplane-flying-600nw-1711248121.jpg);
+    background-size: cover;
+    background-position: center;
+
     margin: 0;
     align-items: center;
-    background-size: 100%;
+
  }
 
 /* #myH1{ */
