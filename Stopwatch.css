@@ -185,6 +185,12 @@
     to {opacity: 1;}
  }
 
+ @media (max-width:1400px) {
+    .click ul{
+        grid-template-columns: repeat(4, 2fr);
+    }
+}
+
  ul {
     list-style-type: none;
     margin: 0;
